@@ -6,7 +6,17 @@ Welcome to the project, we hope you have fun.
 
 please download this worksheet thing!
 
+--- no-print ---
+
 ![a banana dancing](images/banana.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![dead rabbit](images/rabbit.jpg)
+
+--- /print-only ---
 
 --- /task ---
 
@@ -23,3 +33,8 @@ This thing is really cool!
 --- /collapse ---
 
 [[[generic-python-turtle-write]]]
+
+
+
+
+
