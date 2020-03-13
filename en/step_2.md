@@ -21,3 +21,5 @@ title: Do you want to know more about this thing!
 This thing is really cool!
 
 --- /collapse ---
+
+[[[generic-python-turtle-write]]]
