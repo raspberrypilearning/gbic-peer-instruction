@@ -34,7 +34,20 @@ This thing is really cool!
 
 [[[generic-python-turtle-write]]]
 
+--- hints ---
 
+--- hint ---
 
+This is hint 1, read this text
 
+--- /hint ---
 
+--- hint ---
+
+This is hint 2, perhaps have a look at the banana
+
+![a banana dancing](images/banana.gif)
+
+--- /hint ---
+
+--- /hints ---
