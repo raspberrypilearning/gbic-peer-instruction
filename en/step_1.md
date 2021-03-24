@@ -1,6 +1,6 @@
-## Session 1: Peer Instruction Teaching Approach training – Introduction
+## Session 1: Peer Instruction training – Introduction
 
-Hello, and welcome to the Peer Instruction Teaching Approach project, part of the Gender Balance in Computing programme. In this first session, you will be introduced to the Gender Balance in Computing programme and the Teaching Approach project.
+Hello, and welcome to the Teaching Approach project, part of the Gender Balance in Computing programme. In this first session, you will be introduced to the Gender Balance in Computing programme and the Teaching Approach project, including the Peer Instruction teaching approach.
 
 The online course is split into three sessions. You can access the sessions at different times, or complete the whole course at one time. You will be able to revisit the three sessions until the end of the Teaching Approach project. 
  
