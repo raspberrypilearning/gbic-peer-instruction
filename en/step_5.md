@@ -1,6 +1,6 @@
 ## How do you use Peer Instruction in your teaching?
 
-Peer Instruction can replace a traditional presentation approach by combining pre-instruction, multiple choice questions, and peer discussion, to encourage deeper engagement with the content in question. While the use of multiple choice questions (MCQs) is commonplace in classroom teaching, they are often only used for assessment. Peer instruction relies on carefully selected MCQs based on some pre-instruction material. In class, the MCQs are combined with peer discussion to explore and challenge student understanding. Crucially, peer instruction begins with some form of pre-instruction (reading, videos, etc.), where learners can study and become familiar with the material in question before the discussion is held.
+Peer Instruction can replace a traditional presentation approach by combining pre-instruction, multiple choice questions, and peer discussion, to encourage deeper engagement with the content in question. While the use of multiple choice questions (MCQs) is commonplace in classroom teaching, they are often only used for assessment. Peer instruction relies on carefully selected MCQs based on some pre-instruction material. In class, the MCQs are combined with peer discussion to explore and challenge student understanding. Crucially, Peer Instruction begins with some form of pre-instruction (reading, videos, etc.), where learners can study and become familiar with the material in question before the discussion is held.
 
 # Stages of Peer Instruction
 
