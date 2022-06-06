@@ -7,12 +7,10 @@ copyedit: false
 last_tested: '2021-03-03'
 steps:
 - title: 1
-  completion: engaged
 - title: 2
 - title: 3
 - title: 4
 - title: 5
 - title: 6
 - title: 7
-  completion: internal
 - title: 8
